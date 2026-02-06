@@ -114,16 +114,6 @@ Tableau dashboards were developed to:
 
 ---
 
-## Team Members
-
-- Ankita Tripathy  
-- Namratha Vardhineni  
-- Priyanka Jammu  
-- Raksha Basiwal  
-- Ujwala Tripurana  
-
----
-
 ## Future Enhancements
 
 - Integrate insurance coverage and hospital capacity data
